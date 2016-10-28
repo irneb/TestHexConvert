@@ -1,0 +1,17 @@
+﻿Linux Mint 18 64bit, 15.6 GiB RAM, CPU=Intel® Core™ i7-2600 CPU @ 3.40GHz × 8
+Mono 4.6 32bit mode
+Testing first run
+------------------------------------------------------------------------
+        Bitconverter took    656,871ms & used   16776992 bytes
+    Fast.ToHexString took     92,840ms & used    4194368 bytes
+     Hex.ToHexString took    226,689ms & used    8388768 bytes
+  Fast.FromHexString took     10,813ms & used    1048608 bytes
+   Hex.FromHexString took     40,723ms & used    1048608 bytes
+
+Testing second run
+------------------------------------------------------------------------
+        Bitconverter took   1051,506ms & used   16776896 bytes
+    Fast.ToHexString took     99,992ms & used    4194328 bytes
+     Hex.ToHexString took     90,260ms & used    8388664 bytes
+  Fast.FromHexString took     11,123ms & used    1048608 bytes
+   Hex.FromHexString took     42,443ms & used    1048608 bytes

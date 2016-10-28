@@ -1,0 +1,17 @@
+﻿Windows 8.1 Pro 64bit, 64.0 GiB RAM, CPU=Intel® Core™ i7-5930K CPU @ 3.50GHz × 12
+DotNet 4.6
+Testing first run
+------------------------------------------------------------------------
+        Bitconverter took     28.091ms & used   16777408 bytes
+    Fast.ToHexString took      2.318ms & used    4202560 bytes
+     Hex.ToHexString took      5.138ms & used    8391424 bytes
+  Fast.FromHexString took      2.588ms & used    1048600 bytes
+   Hex.FromHexString took      8.730ms & used    1048600 bytes
+
+Testing second run
+------------------------------------------------------------------------
+        Bitconverter took     27.536ms & used   16777376 bytes
+    Fast.ToHexString took      1.806ms & used    4194368 bytes
+     Hex.ToHexString took      4.524ms & used    8388712 bytes
+  Fast.FromHexString took      2.001ms & used    1048600 bytes
+   Hex.FromHexString took      8.882ms & used    1048600 bytes
